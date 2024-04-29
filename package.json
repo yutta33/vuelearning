@@ -1,0 +1,24 @@
+{
+  "name": "vue-leaning",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@highlightjs/vue-plugin": "github:highlightjs/vue-plugin",
+    "highlight.js": "^11.9.0",
+    "vue": "^3.4.21",
+    "vue-code-highlighter": "^1.0.8",
+    "vue-router": "^4.3.0",
+    "vue-word-highlighter": "^1.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "jsdoc": "^4.0.2",
+    "vite": "^5.1.6"
+  }
+}
